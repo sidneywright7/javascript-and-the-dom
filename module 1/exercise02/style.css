@@ -1,14 +1,16 @@
+
 .page-section {
-    margin: 40px
-    border: 2px dashed;
+    margin: 40px;
+    border: 2px dashed black;
 }
 
-first-section {
-    background-color: lightblue
-}   
-second-section {
-    background-color: lightgreen
-}   
+.first-section {
+    background-color: lightblue;
+}
+
+.second-section {
+    background-color: lightgreen;
+}
 
 .section-title {
     text-decoration: underline;
